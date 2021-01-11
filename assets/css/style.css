@@ -1,0 +1,38 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+body * {
+  margin: 0px;
+  padding: 0px;
+}
+
+nav a img {
+  width: 86px;
+  height: 25px;
+}
+
+.card-text, .small, .formulario {
+  color: #707070;
+}
+
+.card-title, .formulario {
+  font-size: 18px;
+}
+
+.precio-verde {
+  font-weight: Medium;
+  font-size: 16px;
+  color: #28A745;
+}
+
+footer img {
+  width: 82px;
+  height: 24px;
+}
+
+.final {
+  width: 100%;
+  height: auto;
+  color: #707070;
+}
